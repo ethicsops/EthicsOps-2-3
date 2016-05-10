@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Comic1</key>
+	<array>
+		<dict>
+			<key>Image</key>
+			<string>image-1</string>
+			<key>Title</key>
+			<string>Unique Title for Image </string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>image-2</string>
+			<key>Title</key>
+			<string>Title 2</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>image-3</string>
+			<key>Title</key>
+			<string>Title 3</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>image-4</string>
+			<key>Title</key>
+			<string>Title 4</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>image-5</string>
+			<key>Title</key>
+			<string>Title 5</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>image-6</string>
+			<key>Title</key>
+			<string>Title 6</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>image-7</string>
+			<key>Title</key>
+			<string>Title 7</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>image-8</string>
+			<key>Title</key>
+			<string>Title 8</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>image-9</string>
+			<key>Title</key>
+			<string>Title 9</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>image-10</string>
+			<key>Title</key>
+			<string>Title 10</string>
+		</dict>
+	</array>
+</dict>
+</plist>

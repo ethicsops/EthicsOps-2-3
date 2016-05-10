@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Type</key>
+		<string>Header</string>
+		<key>Text</key>
+		<string>Testing Large Title</string>
+		<key>Image</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>ImageText</string>
+		<key>Text</key>
+		<string>Lorem ipsum dolor sit amet, lectus erat illum eget non aut a. Et ipsum, accumsan aliquam ac. Pede ullamcorper ornare. Massa interdum facilisi augue ultricies mattis dolor. </string>
+		<key>Image</key>
+		<string>image-1</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>TextImage</string>
+		<key>Text</key>
+		<string>Lorem ipsum dolor sit amet, lectus erat illum eget non aut a. Et ipsum, accumsan aliquam ac. Pede ullamcorper ornare.</string>
+		<key>Image</key>
+		<string>image-1</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>Image</string>
+		<key>Text</key>
+		<string></string>
+		<key>Image</key>
+		<string>image-1</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>Text</string>
+		<key>Text</key>
+		<string>Lorem ipsum dolor sit amet, lectus erat illum eget non aut a. Et ipsum, accumsan aliquam ac. Pede ullamcorper ornare. Massa interdum facilisi augue ultricies mattis dolor. A massa hac, ac molestie ullamcorper turpis dolor morbi, dolor ullamcorper, et sem eget lacus.</string>
+		<key>Image</key>
+		<string>image-1</string>
+	</dict>
+</array>
+</plist>

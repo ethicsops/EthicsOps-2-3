@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Tobey</string>
+		<key>Position</key>
+		<string>iOS Developer</string>
+		<key>Description</key>
+		<string>This is a longer description about Tobey.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-5</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>image-1</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mac</string>
+		<key>Position</key>
+		<string>UI/UX Designer</string>
+		<key>Description</key>
+		<string>This is a longer description about Mac.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-2</string>
+		<key>ProfileImage</key>
+		<string>people-profile-2</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>image-1</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Emily</string>
+		<key>Position</key>
+		<string>UI/UX Designer</string>
+		<key>Description</key>
+		<string>This is a longer description about Emily.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-3</string>
+		<key>ProfileImage</key>
+		<string>people-profile-3</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>image-1</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8150" systemVersion="15A204g" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8122"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
@@ -15,8 +16,36 @@
                     <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <animations/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="ethics_ops_final_web-2" translatesAutoresizingMaskIntoConstraints="NO" id="LHX-Cy-ZrC">
+                                <rect key="frame" x="164" y="95" width="250" height="86"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="250" id="CWo-XH-kKd"/>
+                                    <constraint firstAttribute="height" constant="86" id="KcT-bT-r9w"/>
+                                    <constraint firstAttribute="width" secondItem="LHX-Cy-ZrC" secondAttribute="height" multiplier="125:43" id="Q67-mI-gea"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rbv-3c-EJC">
+                                <rect key="frame" x="122" y="189" width="324" height="21"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="Your Brain on Ethics. Results May Vary.">
+                                        <attributes>
+                                            <color key="NSColor" red="0.29803922770000002" green="0.29803922770000002" blue="0.29803922770000002" alpha="1" colorSpace="calibratedRGB"/>
+                                            <font key="NSFont" size="17" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="rbv-3c-EJC" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="5Cp-Ew-qT3"/>
+                            <constraint firstItem="LHX-Cy-ZrC" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="96" id="hcc-tc-Jnv"/>
+                            <constraint firstItem="LHX-Cy-ZrC" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="kfV-81-vcD"/>
+                            <constraint firstItem="rbv-3c-EJC" firstAttribute="top" secondItem="LHX-Cy-ZrC" secondAttribute="bottom" constant="8" id="pFh-B8-Beu"/>
+                        </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -24,4 +53,7 @@
             <point key="canvasLocation" x="53" y="375"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="ethics_ops_final_web-2" width="2716" height="781"/>
+    </resources>
 </document>

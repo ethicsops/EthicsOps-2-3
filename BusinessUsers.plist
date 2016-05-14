@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Rolf</string>
+		<key>Position</key>
+		<string>Compliance/Ethics Officer</string>
+		<key>Description</key>
+		<string>In-house training platform. Customized to organization&apos;s industry, core value, and required conduct. Shared problem-solving vocabulary employees easily remember and use without embarrassment. EthicsApp is developed with the firm&apos;s preferred compliance &amp; Ethics vendor to provide synergy with current program.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-1</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-1</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brandon</string>
+		<key>Position</key>
+		<string>Chief Corporate Councel</string>
+		<key>Description</key>
+		<string>The app&apos;s decision and communication tools make a strong contribution to the firm&apos;s existing compliance efforts. Anonymous analytics are customized to organization&apos;s needs and Department of Justice concerns. Mobile format based on current brain research reflects priority the organization places on best available training.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-2</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-2</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kimberly</string>
+		<key>Position</key>
+		<string>Board Member</string>
+		<key>Description</key>
+		<string>Platform is portable and instantly available. Fis technology usage habits of millennials. Facilitates individual training and group discussion. Speaks to millennials&apos; interest in Emotional Intelligence.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-3</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-3</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dawn</string>
+		<key>Position</key>
+		<string>Middle Manager</string>
+		<key>Description</key>
+		<string>Prompts user through an ethics decision process approved by the organization. User can journal thoughts and feelings involved in decision. Process for easily sharing these with colleagues and supervisors for advice and reporting. App can attatch to database of similar incidents and relevant policies. </string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-4</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-4</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bob</string>
+		<key>Position</key>
+		<string>New Employee</string>
+		<key>Description</key>
+		<string>Customizable for discrete and trustworthy access to organization&apos;s ethics priorities. Standard and customizable explanations and examples to guide employee responses to situations.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-5</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-5</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Deosha</string>
+		<key>Position</key>
+		<string>HR Manager</string>
+		<key>Description</key>
+		<string>Gives research-based suggestions fro recognizing how people arrive at conflicting ethical judgements. Prompts users through resolution of ethical disagreements with explanations and examples.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-6</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-6</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Gregory</string>
+		<key>Position</key>
+		<string>Regional Sales Manager</string>
+		<key>Description</key>
+		<string>Provides questions to clarify and describe ethical feelings and thoughts. Teaches ethics terminology that fits comfortably into business and professional discussions. Explains and gives examples of how to use the ideas and terminology to decide what is ethical.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-7</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-7</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Darius &amp; Bennet</string>
+		<key>Position</key>
+		<string>Small Business Owners</string>
+		<key>Description</key>
+		<string>Affordable Small Business version customizable to firm&apos;s experience and values. Explanations and examples of issues small business employees face, based on survey research. Materials for quarterly or monthly &quot;ethics minute&quot; discussions.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-8</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-8</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brad</string>
+		<key>Position</key>
+		<string>Businessman</string>
+		<key>Description</key>
+		<string>Includes ethics challenges and &quot;Compare your insight with experts&quot; games. Keeps score of screens visited to offer badges for Screens Visited, Examples Viewed, Time Engaged, and other milestones.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-9</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-9</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

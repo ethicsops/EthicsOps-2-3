@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Edward</string>
+		<key>Position</key>
+		<string>Business Professor</string>
+		<key>Description</key>
+		<string>Connects user with current brain research on ethics judgements and actions. Information easily accessed in graphic novel format and through detailed explanation and case application screens. Concepts presented in vocabulary that can be comfortably used in classroom and business and professional settings. Includes coverage of successful teaching approaches like Giving Voice to Values and organizational ethics.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-10</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-10</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ahmed</string>
+		<key>Position</key>
+		<string>Social Science Professor</string>
+		<key>Description</key>
+		<string>Information provided through inexpensive smart phone, tablet, or computer interfaces that fit students&apos; use patterns. Self-guided approach limits in-class time theory discussions in favor of application discussions. Cases are brief but engaging. Training tools and games are available to stimulate learning in classroom settings.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-11</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-11</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Emily</string>
+		<key>Position</key>
+		<string>Educator</string>
+		<key>Description</key>
+		<string>Provisions for custom case writing of non-copyright material and negotiation for access to copyright protected cases.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-12</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-12</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Candice</string>
+		<key>Position</key>
+		<string>Scout Leader</string>
+		<key>Description</key>
+		<string>Scouting module provides examples and exorcises for leaders wishing to discuss ethics with their troop. Senior scouts can use the module and other content in EthicsApp to lead discussions as service projects.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-13</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-13</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Michelle</string>
+		<key>Position</key>
+		<string>Religion Instructor</string>
+		<key>Description</key>
+		<string>Contemporary brain research and ethical decision model in EthicsApp are compatible with religious approaches to ethics. Ethics tests from major religious traditions are presented along with philosophy based tests. EthicsOps.com LLC will partner with individuals and groups wishing to develop material to highlight the insights of specific religions.</string>
+		<key>BackgroundImage</key>
+		<string>people-pic-1</string>
+		<key>ProfileImage</key>
+		<string>people-profile-14</string>
+		<key>Comics</key>
+		<array>
+			<dict>
+				<key>Image</key>
+				<string>people-profile-14</string>
+				<key>Title</key>
+				<string>Title 1</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-2</string>
+				<key>Title</key>
+				<string>Title 2</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-3</string>
+				<key>Title</key>
+				<string>Title 3</string>
+			</dict>
+			<dict>
+				<key>Image</key>
+				<string>image-4</string>
+				<key>Title</key>
+				<string>Title 4</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
